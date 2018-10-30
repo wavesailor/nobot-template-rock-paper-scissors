@@ -16,7 +16,7 @@
     "autoprefixer": "^6.3",
     "babel-brunch": "~6.0",
     "babel-preset-latest": "^6",
-    "brunch": "^2",
+    "brunch": "^2.10.17",
     "clean-css-brunch": "^2",
     "csswring": "^5.1",
     "eslint": "^4.13.1",
@@ -24,7 +24,7 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1",
-    "postcss-brunch": "^2.1.0",
+    "postcss-brunch": "^2.10.1",
     "postcss-cssnext": "^3.0.2",
     "postcss-import": "^11.0.0",
     "uglify-js-brunch": "^2"
